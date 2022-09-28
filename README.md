@@ -5,4 +5,4 @@
 
 #### Activity 1
 
-![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab2/a1.PNG)
+![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab2/images/a1.PNG)
