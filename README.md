@@ -26,7 +26,9 @@
 ![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab2/blob/main/images/a3.PNG)
 
 ### Activity 4
+#### A4 - step 1
 ![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab2/blob/main/images/a4_commit.PNG)
+#### A4 - step 2
 ![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab2/blob/main/images/a4_commit2.PNG)
 ![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab2/blob/main/images/a4.PNG)
 ![alt text](https://github.com/shashPanwar/ECE444-F2022-Lab2/blob/main/images/a4_2.PNG)
