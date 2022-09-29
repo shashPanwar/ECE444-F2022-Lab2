@@ -7,9 +7,6 @@
         Hello, {% if name %}{{ name }}{% else %}Stranger{% endif %}!
     </h1>
     <h1>
-        {% if email %}Your UofT email is {{ email }}{% else %}{% endif %}
-    </h1>
-    <h1>
         {% if email %}{% if 'utoronto' in email %} Your UofT Email is {{email}} {% else %}Please use your UofT email. {% endif %}{% else %}{% endif %}
     </h1>
 </div>
