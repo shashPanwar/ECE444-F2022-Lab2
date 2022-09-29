@@ -1,6 +1,5 @@
 from ensurepip import bootstrap
 from flask import Flask, render_template
-from flask.ext.bootstrap import Bootstrap
 from flask_bootstrap import Bootstrap
 from flask_moment import Moment
 from datetime import datetime
